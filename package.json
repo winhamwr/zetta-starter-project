@@ -13,6 +13,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "zetta": "*"
+    "zetta": "*",
+    "zetta-led-bonescript-driver": "~0.2.2",
+    "zetta-buzzer-bonescript-driver": "~0.7.0",
+    "zetta-microphone-bonescript-driver": "~0.8.0"
   }
 }
